@@ -1,5 +1,6 @@
 # Module_16
 ### Amazon Reviews ETL
+![Alt text](https://sellerengine.com/wordpress/wp-content/uploads/2019/01/Amazon-Vine-300x167.png)
 
 ## Overview
 Since your work with Jennifer on the SellBy project was so successful, you’ve been tasked with another, larger project: analyzing Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
@@ -10,7 +11,7 @@ This new assignment consists of two technical analysis deliverables and a writte
 
 **Deliverable 1:** Perform ETL on Amazon Product Reviews<br>
 **Deliverable 2:** Determine Bias of Vine Reviews<br>
-**Deliverable 3:** A Written Report on the Analysis (README.md)
+**Deliverable 3:** A Written Report on the Analysis (README.md)<br>
 
 ### Deliverable 1: Perform ETL on Amazon Product Reviews<br>
 
